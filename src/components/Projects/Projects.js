@@ -25,10 +25,13 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Testify"
+              description="Developed an Ed-Tech website Developed an Ed-Tech website for online course purchases using HTML, CSS, JavaScript, and React.
+Implemented user registration, login, and role-based authorization with JWT-based authentication and refresh token support.
+
+ online course purchases, featuring user registration, JWT-based authentication with refresh tokens, secure RESTful APIs, Stripe payment gateway."
+              ghLink="https://github.com/ankitk1803"
+              demoLink="https://testify-coral.vercel.app/"
             />
           </Col>
 
@@ -36,10 +39,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="BG-REMOVER"
+              description=" BG-REMOVER is an AI-powered tool that removes backgrounds from images automatically in 5 seconds. It supports transparent or new backgrounds and works with various design programs and eCommerce sites.Photographers, and businesses. with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              ghLink="https://github.com/ankitk1803"
+              demoLink="https://bg-remover-3t5s.vercel.app/"
             />
           </Col>
 
@@ -47,7 +50,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="CAMPUS-RENTALS"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
